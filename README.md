@@ -12,7 +12,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skills 
 <table><tr><td valign="top" width="33%">
 
 
@@ -57,7 +57,7 @@
 <br/>  
 
 
-## Connect with me  
+## Redes 
 <div align="center">
 <a href="https://linkedin.com/in/valentino-machuca" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -74,10 +74,12 @@
 <br/>  
 
 
-## Github Stats  
+## GitHub Stats 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=valentino-machuca&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ehsjgwb3eivwhfszd1js9r9wi&cover_image=true&theme=compact" /></div>
+
+## Spotify Activity
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ehsjgwb3eivwhfszd1js9r9wi&cover_image=true&theme=default" /></div>
 <br />
