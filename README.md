@@ -6,7 +6,7 @@
 ### <div align="center">Soy Valentino, Desarrollador Full-Stack 👨‍💻 orientado a  Front-end 🚀</div>  
   
 
-<div align="center">❕ Tengo apego por el diseño, me encuentro en contante aprendizaje, me gusta el trabajo en equipo, la buena comunicación y siempre dispuesto a enseñar y aprender dando lo mejor por mi equipo y entorno.</div>  
+<div align="center">❕ Tengo apego por el diseño, me encuentro en constante aprendizaje, me gusta el trabajo en equipo, la buena comunicación y siempre dispuesto a enseñar y aprender dando lo mejor por mi equipo y entorno.</div>  
   
 
 <br/>  
