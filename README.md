@@ -17,17 +17,6 @@ TypeScript - React - Angular - Node.js - Express - Java Spring Boot - Python
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://valentinom.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentino-machuca)
 
-<br/>  
-
-<div align="center">
-<a href="https://linkedin.com/in/valentino-machuca" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-
-<br/>  
-
 ## Spotify Activity
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ehsjgwb3eivwhfszd1js9r9wi&cover_image=true&theme=default" /></div>
 <br />
