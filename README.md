@@ -56,29 +56,14 @@
 
 <br/>  
 
-
-## Redes 
 <div align="center">
 <a href="https://linkedin.com/in/valentino-machuca" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/valentino_machuca" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/valentino-machuca" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
 <br/>  
-
-
-## GitHub Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=valentino-machuca&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 
 ## Spotify Activity
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ehsjgwb3eivwhfszd1js9r9wi&cover_image=true&theme=default" /></div>
